@@ -5,7 +5,7 @@ tpl.layout.header: =file(tpl/tpl.layout.header.html)
 
 tpl.ce.action: =file(tpl/tpl.ce.action.html)
 tpl.ce.clients: =file(tpl/tpl.ce.clients.html)
-tpl.ce.footer: =file(tpl/tpl.ce.foolter.html)
+tpl.ce.footer: =file(tpl/tpl.ce.footer.html)
 tpl.ce.homeslider: =file(tpl/tpl.ce.homeslider.html)
 tpl.ce.login: =file(tpl/tpl.ce.login.html)
 tpl.ce.services: =file(tpl/tpl.ce.services.html)
