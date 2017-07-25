@@ -1,0 +1,13 @@
+version: "1"
+
+tpl.layout.triangle: template(tpl/tpl.layout.triangle.html)
+tpl.layout.header: template(tpl/tpl.layout.header.html)
+
+tpl.ce.action: template(tpl/tpl.ce.action.html)
+tpl.ce.clients: template(tpl/tpl.ce.clients.html)
+tpl.ce.footer: template(tpl/tpl.ce.foolter.html)
+tpl.ce.homeslider: template(tpl/tpl.ce.homeslider.html)
+tpl.ce.login: template(tpl/tpl.ce.login.html)
+tpl.ce.services: template(tpl/tpl.ce.services.html)
+
+
